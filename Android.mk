@@ -7,4 +7,5 @@ ifneq ($(TARGET_PROVIDES_CAMERA_HAL),true)
     endif
    endif
   endif
+ endif
 endif
